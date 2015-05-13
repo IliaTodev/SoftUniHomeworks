@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//ko staa manqk
 namespace Problem_1.Bigger_Number
 {
     class Program
