@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< .mine
+// asd asd asd
+=======
 //ko staa manqk
+>>>>>>> .r3
 namespace Problem_1.Bigger_Number
 {
     class Program
